@@ -1,2 +1,2 @@
 # Coalition-RFPs
-EOSIO+ Coalition RFPs
+Antelope Coalition RFPs
